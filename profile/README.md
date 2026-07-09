@@ -5,7 +5,7 @@
 
   <a href="https://raydium.io"><img src="https://img.shields.io/badge/Website-raydium.io-00C3A0?style=for-the-badge" alt="Website" /></a>
   <a href="https://raydium.io/swap/"><img src="https://img.shields.io/badge/Swap-Trade_Now-00C3A0?style=for-the-badge" alt="Swap" /></a>
-  <a href="https://raydium.io/pools/"><img src="https://img.shields.io/badge/Liquidity-Pools-00C3A0?style=for-the-badge" alt="Liquidity" /></a>
+  <a href="https://raydium.io/liquidity-pools/"><img src="https://img.shields.io/badge/Liquidity-Pools-00C3A0?style=for-the-badge" alt="Liquidity" /></a>
   <a href="https://docs.raydium.io"><img src="https://img.shields.io/badge/Documentation-Docs-00C3A0?style=for-the-badge" alt="Documentation" /></a>
 
   <br/>
